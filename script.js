@@ -8,9 +8,9 @@ function verificacao(prm1, prm2, prm3) {
 }
 
 function cor(prm1, prm2, prm3) {
-    prm1.style.background = '#0f0';
-    prm2.style.background = '#0f0';
-    prm3.style.background = '#0f0';
+    prm1.style.background = 'rgb(76, 0, 255)';
+    prm2.style.background = 'rgb(76, 0, 255)';
+    prm3.style.background = 'rgb(76, 0, 255)';
 }
 
 

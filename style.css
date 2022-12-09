@@ -11,7 +11,7 @@ body {
     height: 100vh;
     width: 100vw;
     font-family: minecraft;
-    color: rgb(0, 255, 34);
+    color: rgb(76, 0, 255);
     font-size: 50px;
 }
 
@@ -37,7 +37,7 @@ body {
 }
           
 .tabuleiro:hover {
-    box-shadow: 10px 10px 6px -6px rgba(23, 187, 1, 0.5);
+    box-shadow: 10px 10px 6px -6px rgb(76, 0, 255);;
     transform: translate(-3px, -3px);
 }
 
@@ -48,7 +48,7 @@ body {
     font-size: 14px;       
     text-decoration: none;       
     margin: 30px 0;       
-    border: 2px solid #09ff00;       
+    border: 2px solid rgb(76, 0, 255);;       
     padding: 14px 60px;      
     text-transform: uppercase;       
     overflow: hidden;       
@@ -73,7 +73,7 @@ body {
 }
         
 .btn::before{
-    background: #19ff04;
+    background: #1916d6;
     content: "";
     position: absolute;
     top: 50%;
