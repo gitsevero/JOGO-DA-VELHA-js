@@ -52,10 +52,10 @@ body {
 }
 
 .btn{   
-    position: relative;      
-    display: block;      
+    
+    position: relative;        
     color: rgb(0, 0, 0);      
-    font-size: 14px;       
+    font-size: 30px;       
     text-decoration: none;       
     margin: 30px 0;       
     border: 2px solid rgb(76, 0, 255);;       
@@ -63,12 +63,12 @@ body {
     text-transform: uppercase;       
     overflow: hidden;       
     transition: 1s all ease;       
-    width: 10px;        
-    height: 10px;
+    width: 15px;        
+    height: 15px;
     display: flex;
     justify-content: center;
     align-items: center;
-    border-radius: 50px;
+    border-radius: 30px;
 }
 
           
