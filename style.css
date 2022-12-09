@@ -29,7 +29,7 @@ body {
     margin: 5px;
     cursor: pointer;
     color: rgb(255, 255, 255);
-    border-radius: 50px;
+    border-radius: 10px;
 }
           
 .tabuleiro span.show {
